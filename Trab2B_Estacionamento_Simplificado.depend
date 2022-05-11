@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1652304273 source:c:\users\gabriel alves\documents\projetos c\e.d 1 2021.2\trab2b_estacionamento_simplificado\estacionamento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"Estacionamento.h"
+
+1651870696 c:\users\gabriel alves\documents\projetos c\e.d 1 2021.2\trab2b_estacionamento_simplificado\estacionamento.h
+
+1651926846 source:c:\users\gabriel alves\documents\projetos c\e.d 1 2021.2\trab2b_estacionamento_simplificado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"Estacionamento.h"
+
+1651926846 source:c:\users\gabriel alves\desktop\trab2b_estacionamento_simplificado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<time.h>
+	"Estacionamento.h"
+
+1651870696 c:\users\gabriel alves\desktop\trab2b_estacionamento_simplificado\estacionamento.h
+
